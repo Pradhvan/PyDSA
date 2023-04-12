@@ -10,7 +10,7 @@ Notes around Data Structures and Algorithms
 4. Insert at head
 5. Insert at tail
 6. Insert at Kth index
-7. Reverse a LinkedList - (Incomplete)
+7. Reverse a LinkedList
 8. Get data from a Kth node in a LinkedList
 9. Checking if two LinkedList are equal
 

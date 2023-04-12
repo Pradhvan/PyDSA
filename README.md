@@ -32,3 +32,14 @@ Topics to added here [Prefix Sum, Carry Forward, Subarray, 2D Matrices, Sliding 
 
 
 ### Strings
+
+
+### Trees
+
+* Basic terminology of trees and Binary trees.
+
+* Inorder Traversal
+* Postorder Traversal
+* Preorder Traversal
+* Count number of nodes in a tree
+* Sum of nodes

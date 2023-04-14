@@ -15,11 +15,11 @@ Notes around Data Structures and Algorithms
 9. Checking if two LinkedList are equal
 
 
-### Arrays
+### [Arrays](https://github.com/Pradhvan/PyDSA/tree/main/Arrays)
 
-* ✅ Array Warmups
+* ✅ [Array Warmups](https://github.com/Pradhvan/PyDSA/blob/main/Arrays/ArraysWarmup.ipynb)
 
-* ✅ Prefix Sum and Range Sum
+* ✅ [Prefix Sum and Range Sum](https://github.com/Pradhvan/PyDSA/blob/main/Arrays/PrefixSum.ipynb)
 
      - Calculate Prefix Sum
      - Calculate Range Sum
@@ -46,7 +46,7 @@ Notes around Data Structures and Algorithms
 ### Strings
 
 
-### Trees
+### [Trees](https://github.com/Pradhvan/PyDSA/tree/main/Trees)
 
 * Basic terminology of trees and Binary trees.
 

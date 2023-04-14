@@ -17,7 +17,19 @@ Notes around Data Structures and Algorithms
 
 ### Arrays
 
-Topics to added here [Prefix Sum, Carry Forward, Subarray, 2D Matrices, Sliding Window]
+* ✅ Array Warmups
+
+* ✅ Prefix Sum and Range Sum
+
+     - Calculate Prefix Sum
+     - Calculate Range Sum
+     - Check if Equilibrium Index exists
+     - Even and Odd range prefix sum (Incomplete)
+        
+* Carry Forward
+* Subarray
+* 2D Matrices
+* Sliding Window]
 
 ### Recursion
 

@@ -26,7 +26,13 @@ Notes around Data Structures and Algorithms
      - Check if Equilibrium Index exists
      - Even and Odd range prefix sum (Incomplete)
         
-* Carry Forward
+* ✅ [Carry Forward](https://github.com/Pradhvan/PyDSA/blob/main/Arrays/CarryForward.ipynb)
+
+     - Left Max
+     - Right Max
+     - Count `ag` pairs of a string
+     - Subarray that contains both max and min
+
 * Subarray
 * 2D Matrices
 * Sliding Window]

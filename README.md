@@ -33,8 +33,20 @@ Notes around Data Structures and Algorithms
      - Count `ag` pairs of a string
      - Subarray that contains both max and min
 
-* Subarray
-* 2D Matrices
+* ✅ [Subarray](https://github.com/Pradhvan/PyDSA/blob/main/Arrays/SubArrays.ipynb)
+     - Print all subarray
+     - Print sum of all the subarray
+     - Print all the subarray sum starting at index `k`
+     - Colourful Number
+
+* ✅ [2D Matrices](https://github.com/Pradhvan/PyDSA/blob/main/Arrays/2D%20Matrices.ipynb)
+     - Row Sum
+     - Column Sum
+     - Print Diagonal of `NxN` (Left -> Right) and (Right -> Left)
+     - Print Diagonal of `NxM`
+     - Transpose of a matrix `NxN` and `NxM`
+     - Rotate a `NxN` matrix 90 degree
+
 * Sliding Window]
 
 ### Recursion
@@ -62,3 +74,4 @@ Notes around Data Structures and Algorithms
 * Count number of nodes in a tree
 * Sum of nodes
 * Sum of left leaves
+* Height of the tree
